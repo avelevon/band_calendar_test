@@ -1,0 +1,19 @@
+table {
+  overflow-x: auto;
+  display: block;
+  border-collapse: separate;
+  border-spacing: 0;
+  position: relative;
+  height: 100%;
+}
+
+tbody {
+
+  tr {
+    td {
+      padding: 5px;
+      border: 1px solid rgba(128, 128, 128, 0.5);
+      text-align: center;
+    }
+  }
+}
